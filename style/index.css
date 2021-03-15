@@ -1,0 +1,18 @@
+.header {
+    text-align: center;
+    color:rgb(221, 9, 9);
+}
+.container{
+    column-count: 3;
+    font-size: 50px;
+    
+}
+.column{
+    float: left;
+    width : 33%;
+    padding: auto;
+}
+
+.title{
+    color : blue
+}
